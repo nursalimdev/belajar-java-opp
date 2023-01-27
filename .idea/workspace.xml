@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ManagerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VicePresident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VicePresident.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ManagerApp">
+  <component name="RunManager" selected="Application.ParentApp">
     <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManagerApp" />
       <module name="belajar-java-opp" />
@@ -45,8 +44,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParentApp" />
+      <module name="belajar-java-opp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonApp" />
+      <module name="belajar-java-opp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolymorphismApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismApp" />
       <module name="belajar-java-opp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParentApp" />
+        <item itemvalue="Application.PolymorphismApp" />
         <item itemvalue="Application.ManagerApp" />
         <item itemvalue="Application.ShapeApp" />
         <item itemvalue="Application.PersonApp" />
@@ -88,20 +103,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ManagerApp.java</url>
-          <line>1</line>
-          <properties class="ManagerApp" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
