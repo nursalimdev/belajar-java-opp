@@ -3,17 +3,17 @@ class Person {
     String address;
     final String country = "Indonesia";
 
-    Person(String paramName, String paramAddress){
-        name = paramName;
-        address = paramAddress;
+    Person(String name, String address){
+        this.name = name;
+        this.address = address;
     }
 
-    Person(String paramName){
-        name = paramName;
+    Person(String name){
+        this(name, null);
     }
 
     Person(){
-
+        this(null);
     }
 
     public void sayHello(String paramName){
