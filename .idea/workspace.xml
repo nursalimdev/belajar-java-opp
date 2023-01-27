@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8f4fd4e3-e17e-42ba-b55e-21e468aa21c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManagerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VicePresident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VicePresident.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +52,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShapeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShapeApp" />
+      <module name="belajar-java-opp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ManagerApp" />
+        <item itemvalue="Application.ShapeApp" />
         <item itemvalue="Application.PersonApp" />
       </list>
     </recent_temporary>
@@ -78,5 +88,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ManagerApp.java</url>
+          <line>1</line>
+          <properties class="ManagerApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
