@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f4fd4e3-e17e-42ba-b55e-21e468aa21c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mypackage/data/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/data/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,9 +35,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CategoryApp">
+  <component name="RunManager" selected="Application.ProductApp">
     <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypackage.app.AnimalApp" />
+      <module name="belajar-java-opp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.app.CarApp" />
       <module name="belajar-java-opp" />
       <extension name="coverage">
         <pattern>
@@ -62,13 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ManagerApp" />
-      <module name="belajar-java-opp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ParentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ParentApp" />
       <module name="belajar-java-opp" />
@@ -76,20 +82,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PolymorphismApp" />
+    <configuration name="ProductApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.data.ProductApp" />
       <module name="belajar-java-opp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductApp" />
+        <item itemvalue="Application.CarApp" />
         <item itemvalue="Application.CategoryApp" />
         <item itemvalue="Application.AnimalApp" />
         <item itemvalue="Application.ParentApp" />
-        <item itemvalue="Application.PolymorphismApp" />
-        <item itemvalue="Application.ManagerApp" />
       </list>
     </recent_temporary>
   </component>
