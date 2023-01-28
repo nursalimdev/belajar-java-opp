@@ -22,6 +22,7 @@ public class ReadApp {
             if(br != null){
                 try {
                     br.close();
+                    System.out.println("Sukses menutup");
                 } catch (IOException e) {
                     System.out.println("Error menutup recource " + e.getMessage());
                 }
