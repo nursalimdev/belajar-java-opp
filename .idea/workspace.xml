@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f4fd4e3-e17e-42ba-b55e-21e468aa21c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mypackage/app/ValidationApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/app/ValidationApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mypackage/util/ValidationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/util/ValidationUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +46,9 @@
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ValidationApp">
-    <configuration name="CompanyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.app.CompanyApp" />
+  <component name="RunManager" selected="Application.ReadApp">
+    <configuration name="DatabaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.app.DatabaseApp" />
       <module name="belajar-java-opp" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.app.HelloWorldApp" />
+    <configuration name="ReadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.app.ReadApp" />
       <module name="belajar-java-opp" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.app.StaticApp" />
+    <configuration name="StackTraceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.app.StackTraceApp" />
       <module name="belajar-java-opp" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadApp" />
+        <item itemvalue="Application.StackTraceApp" />
+        <item itemvalue="Application.DatabaseApp" />
         <item itemvalue="Application.ValidationApp" />
         <item itemvalue="Application.EnumApp" />
-        <item itemvalue="Application.StaticApp" />
-        <item itemvalue="Application.HelloWorldApp" />
-        <item itemvalue="Application.CompanyApp" />
       </list>
     </recent_temporary>
   </component>

@@ -18,5 +18,10 @@ public class ValidationApp {
 //        catch (NullPointerException e){
 //            System.out.println("Ada null pointer : " +e.getMessage());
 //        }
+
+
+        Login login2 = new Login(null, null);
+        ValidationUtil.validateRuntime(login);
+        System.out.println("sukses");
     }
 }
