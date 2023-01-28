@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f4fd4e3-e17e-42ba-b55e-21e468aa21c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EnumApp">
+  <component name="RunManager" selected="Application.ValidationApp">
     <configuration name="CompanyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypackage.app.CompanyApp" />
       <module name="belajar-java-opp" />
@@ -98,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mypackage.data.ProductApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.data.ProductApp" />
+    <configuration name="ValidationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.app.ValidationApp" />
       <module name="belajar-java-opp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mypackage.util.*" />
+          <option name="PATTERN" value="mypackage.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidationApp" />
         <item itemvalue="Application.EnumApp" />
         <item itemvalue="Application.StaticApp" />
         <item itemvalue="Application.HelloWorldApp" />
         <item itemvalue="Application.CompanyApp" />
-        <item itemvalue="Application.mypackage.data.ProductApp" />
       </list>
     </recent_temporary>
   </component>
